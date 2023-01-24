@@ -1,5 +1,5 @@
 {
-  "name": "enm/json-api-server-bundle",
+  "name": "jerru11/json-api-server-bundle",
   "description": "Symfony integration of enm/json-api-server",
   "type": "symfony-bundle",
   "autoload": {
